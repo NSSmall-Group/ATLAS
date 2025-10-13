@@ -1,0 +1,1 @@
+[(['0xalsaheel.com', 'system_4'], 0.9969969391822815), (['0xalsaheel.com', 'c:/users/aalsahee/payload.exe_2064'], 0.9673609137535095), (['0xalsaheel.com', 'c:/users/aalsahee/payload.exe'], 0.9332288503646851), (['0xalsaheel.com', 'c:/users/aalsahee/appdata/local/gdipfontcachev1.dat'], 0.8993701338768005)]
